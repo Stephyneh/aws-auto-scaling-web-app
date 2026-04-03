@@ -41,9 +41,7 @@ The system automatically adjusts resources based on traffic demand, ensuring per
 ---
 
 ## 📸 Screenshots
-(Add screenshots here of your AWS setup)
 
----
 
 ## 📈 Real-World Use Case
 This architecture is used by modern cloud applications to handle variable traffic loads efficiently, similar to systems used by companies like Netflix and Amazon.
